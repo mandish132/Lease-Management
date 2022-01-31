@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "Lease Package",
+      "default": true
+    }
+  ],
+  "name": "Lease Synchronization",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
